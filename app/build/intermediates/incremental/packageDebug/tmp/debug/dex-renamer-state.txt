@@ -1,0 +1,4 @@
+#Mon Oct 07 00:28:55 ICT 2019
+base.0=C\:\\Users\\dell\\AndroidStudioProjects\\MobCom\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
